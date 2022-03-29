@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/Dashboard/profile/changepassword", {data:[{}],fetch:{},mutations:[]});
