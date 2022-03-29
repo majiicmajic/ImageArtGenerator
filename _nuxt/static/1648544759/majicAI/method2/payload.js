@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/majicAI/method2", {data:[{}],fetch:{},mutations:[]});
